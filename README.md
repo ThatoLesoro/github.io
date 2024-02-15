@@ -1,4 +1,4 @@
-elect*
+Select*
 from[dbo].[AWS_SaaS]
 
 //SALES VARIATION BY REGION 
